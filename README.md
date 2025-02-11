@@ -10,8 +10,5 @@ PizzaBot is an interactive chatbot built using **Google Dialogflow**, designed t
 ## 🎥 Demo
 ![PizzaBot Demo](https://github.com/Suriyancdurai/Pizza-Chat-Bot/blob/main/Pizza%20Chat%20Bot.png)
 
-## 🛠️ How to Use
-1. Clone this repository:  
-   ```sh
-   git clone https://github.com/Suriyancdurai/Pizza-Chat-Bot.git
+
 
